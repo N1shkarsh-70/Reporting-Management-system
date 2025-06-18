@@ -1,7 +1,7 @@
 
-# 🛠️ Toll Plaza Reporting Management System
+# Reporting Management System
 
-## 📌 What is Reporting Management System?
+## What is Reporting Management System?
 
 The **Toll Plaza Reporting Management System** is a role-based web application built to streamline issue reporting and management within toll plaza operations. It allows **Site Engineers** to report real-time issues occurring at toll plazas and enables **Admins** to manage projects, assign project incharges, monitor engineer activity, and generate insightful reports.
 
