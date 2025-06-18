@@ -37,7 +37,7 @@ Password: nishkarsh@123
 ## 🖼️ Frontend UI Preview
 
 ### 🧭 Sidebar Navigation
-![Sidebar Navigation](./screenshots/sidebar.png)
+
 
 ![Screenshot 2025-06-18 234506](https://github.com/user-attachments/assets/a3153d7d-9f08-4124-a3e6-c35bc87ea0ee)
 ![Screenshot 2025-06-18 234526](https://github.com/user-attachments/assets/a9cc97c3-b4f0-4059-b382-a9f8b8140cf5)
