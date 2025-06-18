@@ -11,17 +11,14 @@ This system enhances transparency, coordination, and operational efficiency betw
 
 ## 🌐 Live Preview
 
-🔗 [Live Demo](#) *(Add your deployed link here – e.g., from Render, Vercel, or Netlify)*
+🔗 [Live Demo](#) [ https://reporting-management-system-two.vercel.app/]
 
 🧪 Use the following credentials to test:
 ```
 Admin Login:
-Email: admin@example.com
-Password: admin123
+Email: nishkarsh12@gmail.com
+Password: nishkarsh@123
 
-Engineer Login:
-Email: engineer@example.com
-Password: engineer123
 ```
 
 ---
@@ -87,14 +84,14 @@ JWT_SECRET=your_jwt_secret
 4. Run the application:
 ```bash
 # In server/
-npm start
+node server.js
 
 # In client/
-npm start
+npm run dev
 ```
 
 ---
 
 ## 📧 Contact
 
-For queries or contributions, reach out at: `your.email@example.com`
+For queries or contributions, reach out at: `Nishkarsh.7078@gmail.com`
