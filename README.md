@@ -11,7 +11,7 @@ This system enhances transparency, coordination, and operational efficiency betw
 
 ## 🌐 Live Preview
 
-🔗 [Live Demo](#) [ https://reporting-management-system-two.vercel.app/]
+🔗 ![Live Demo](https://reporting-management-system-two.vercel.app/)
 
 🧪 Use the following credentials to test:
 ```
@@ -39,7 +39,18 @@ Password: nishkarsh@123
 ### 🧭 Sidebar Navigation
 ![Sidebar Navigation](./screenshots/sidebar.png)
 
-*(Add more screenshots as needed in a `screenshots/` folder)*
+![Screenshot 2025-06-18 234506](https://github.com/user-attachments/assets/a3153d7d-9f08-4124-a3e6-c35bc87ea0ee)
+![Screenshot 2025-06-18 234526](https://github.com/user-attachments/assets/a9cc97c3-b4f0-4059-b382-a9f8b8140cf5)
+![Screenshot 2025-06-18 234545](https://github.com/user-attachments/assets/63a673de-0c21-4900-a3b5-9b0c22f6ce9c)
+![Screenshot 2025-06-18 234643](https://github.com/user-attachments/assets/aa19f220-a679-4d08-9e2e-193b1afc4bef)
+![Screenshot 2025-06-18 234600](https://github.com/user-attachments/assets/468ce3b2-3696-41ab-ae82-95e39740d052)
+![Screenshot 2025-06-18 234705](https://github.com/user-attachments/assets/68a96d90-755e-4ccc-9d93-14847dc6da2d)
+![Screenshot 2025-06-18 234726](https://github.com/user-attachments/assets/72c6465c-31e9-4e25-80d5-fff0aaa156ce)
+![Screenshot 2025-06-18 234744](https://github.com/user-attachments/assets/11d12bb2-20c1-4ce6-8661-097257883d03)
+![Screenshot 2025-06-18 234800](https://github.com/user-attachments/assets/aafc5b86-d49b-42d3-8061-a9abaf40f912)
+![Screenshot 2025-06-18 234824](https://github.com/user-attachments/assets/5b7db65a-a7cf-407f-8b08-5483e3b44969)
+
+
 
 ---
 
