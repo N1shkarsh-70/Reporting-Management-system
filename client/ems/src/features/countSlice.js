@@ -8,7 +8,7 @@ export const fetchCounts = createAsyncThunk(
   async (_, { rejectWithValue, getState }) => {
     try {
       const token = getState().auth.token;
-      const response = await axios.get(" http://localhost:3000/api/superadmin/get-counts", {
+      const response = await axios.get(" https://reporting-management-system.onrender.com/api/superadmin/get-counts", {
         headers: { Authorization: `Bearer ${token}` },
       });
       console.log(response);

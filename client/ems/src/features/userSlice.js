@@ -1,7 +1,7 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const API_URL = ' http://localhost:3000/api/superadmin/allusers';
+const API_URL = ' https://reporting-management-system.onrender.com/api/superadmin/allusers';
 
 // Async Thunks
 
@@ -71,7 +71,7 @@ export const updateUser = createAsyncThunk(
       };
    console.log(payload);
    
-      const response = await axios.put(` http://localhost:3000/api/superadmin/update-user/${payload.id}`, payload.updatedData, config);
+      const response = await axios.put(` https://reporting-management-system.onrender.com/api/superadmin/update-user/${payload.id}`, payload.updatedData, config);
       console.log(response);
       
       return response.data;
@@ -97,7 +97,7 @@ export const deleteUser = createAsyncThunk(
         },
       };
 
-      const response = await axios.delete(` http://localhost:3000/api/superadmin/delete-user/${userId}`, config);
+      const response = await axios.delete(` https://reporting-management-system.onrender.com/api/superadmin/delete-user/${userId}`, config);
       return response.data;
     } catch (error) {
       return rejectWithValue(
