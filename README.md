@@ -11,7 +11,7 @@ This system enhances transparency, coordination, and operational efficiency betw
 
 ## 🌐 Live Preview
 
-🔗 ![Live Demo](https://reporting-management-system-two.vercel.app/)
+(https://reporting-management-system-two.vercel.app/)
 
 🧪 Use the following credentials to test:
 ```
